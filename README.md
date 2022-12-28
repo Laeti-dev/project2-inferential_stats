@@ -19,8 +19,13 @@ These symptoms generally occur more than half the days or nearly every day.
 I focused my sudy on depression.
 
 Steps :
+
 1- Analyse the Data set
+
 2- Create columns for year and month of the survey for easier access
+
 3- Analyse depression repartition in America according states through 2020 to 2022
+
 4- Analyse depression depending on the gender
+
 5- Analyse evolution during COVID-19
