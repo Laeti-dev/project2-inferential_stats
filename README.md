@@ -3,9 +3,9 @@ Second project with Matrice after our practice on inferential statistics
 
 ![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy)
 
-![Numpy](https://img.shields.io/badge/Numpy-v1.24.0-9cf)
-![Pandas](https://img.shields.io/badge/Pandas-v1.5-informational)
 ![Plotly](https://img.shields.io/badge/Plotly-for%20Python-blue)
 
 -----------------------------------------------------------------
